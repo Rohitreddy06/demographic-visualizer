@@ -1,15 +1,9 @@
+Here is the code you can copy-paste directly into your `README.md`:
+
+```markdown
 # Interactive Demographic Statistics Visualizer
 
 This is a Streamlit-based web application for visualizing, analyzing, and forecasting demographic data. It allows users to upload their own datasets, explore relationships through interactive charts, and perform predictive analysis using machine learning models.
-
-🌐 Live Site
-You can access the live site of the application at:
-
-Interactive Demographic Visualizer - Live Site
-
-Login Credentials:
-Username: 123
-Password: 123
 
 ## 🔍 Features
 
@@ -33,13 +27,15 @@ Password: 123
 ## 📁 Folder Structure
 
 ```
+
 project/
 ├── app.py                     # Main Streamlit application
 ├── data/                      # Folder to store uploaded CSV files
-│   └── (user_uploaded_files.csv)
+│   └── (user\_uploaded\_files.csv)
 ├── requirements.txt           # List of Python dependencies
 └── README.md                  # Project documentation
-```
+
+````
 
 ## 🚀 Getting Started
 
@@ -48,7 +44,7 @@ project/
 ```bash
 git clone https://github.com/your-username/demographic-visualizer.git
 cd demographic-visualizer
-```
+````
 
 ### 2. Install dependencies
 
@@ -62,7 +58,19 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## 🌐 Live Site
+
+You can access the live site of the application at:
+
+**[Interactive Demographic Visualizer - Live Site](https://demographic-visualizer-2025.streamlit.app/)**
+
+### Login Credentials:
+
+* **User ID**: 123
+* **Password**: 123
+
 ## 📷 Screenshots
+
 ![Screenshot 2025-04-03 100733](https://github.com/user-attachments/assets/0457a3c6-c985-4bbc-b5c5-00ac48c56f58)
 ![Screenshot 2025-04-03 125917](https://github.com/user-attachments/assets/c9624268-81da-4829-99cb-301307a6fb6b)
 ![Screenshot 2025-04-03 130104](https://github.com/user-attachments/assets/5b2bbd48-22c6-4bb6-8447-c3757b1b1380)
@@ -72,18 +80,22 @@ streamlit run app.py
 
 ## 🔮 Upcoming Features
 
-- Voice-based AI query assistant for chart generation.
-- Real-time demographic trends dashboard.
-- Data export options (PDF, Excel).
+* Voice-based AI query assistant for chart generation.
+* Real-time demographic trends dashboard.
+* Data export options (PDF, Excel).
 
 ## 📬 Contact
 
 Feel free to connect or contribute!
 
-📧 2211cs010095@mallareddyuniversity.ac.in  
-🌐 GitHub: https://github.com/Rohitreddy06
+📧 [2211cs010095@mallareddyuniversity.ac.in](mailto:2211cs010095@mallareddyuniversity.ac.in)
+🌐 GitHub: [https://github.com/Rohitreddy06](https://github.com/Rohitreddy06)
 
 ## 📜 License
 
 Licensed under the MIT License.
 
+```
+
+You can now copy and paste this directly into your `README.md`. Let me know if you need any further changes!
+```
