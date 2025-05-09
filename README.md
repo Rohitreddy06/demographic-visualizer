@@ -2,6 +2,15 @@
 
 This is a Streamlit-based web application for visualizing, analyzing, and forecasting demographic data. It allows users to upload their own datasets, explore relationships through interactive charts, and perform predictive analysis using machine learning models.
 
+🌐 Live Site
+You can access the live site of the application at:
+
+Interactive Demographic Visualizer - Live Site
+
+Login Credentials:
+Username: 123
+Password: 123
+
 ## 🔍 Features
 
 - 📂 Upload CSV files containing demographic data.
